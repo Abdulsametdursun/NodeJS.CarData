@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2,
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": 2020,
+    "price": 20000,
+    "mileage": 30000,
+    "color": "White",
+    "fuel_type": "Hybrid",
+    "transmission": "Automatic",
+    "location": "Munich, Germany"
+  },
+  {
+    "id": 3,
+    "make": "BMW",
+    "model": "3 Series",
+    "year": 2024,
+    "price": 50000,
+    "mileage": 0,
+    "color": "Red",
+    "fuel_type": "Diesel",
+    "transmission": "Manual",
+    "location": "Hamburg, Germany"
+  },
+  {
+    "id": 4,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2021,
+    "price": 30000,
+    "mileage": 15000,
+    "color": "Silver",
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "location": "Stuttgart, Germany"
+  },
+  {
+    "id": 5,
+    "make": "Audi",
+    "model": "A4",
+    "year": 2017,
+    "price": 17000,
+    "mileage": 50000,
+    "color": "Red",
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "location": "Cologne, Germany"
+  }
+]
